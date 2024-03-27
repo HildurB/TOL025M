@@ -1,0 +1,233 @@
+greetings:
+  - - Hello
+    - Hi
+  - - Hi
+    - Hello
+  - - Greetings!
+    - Hello
+  - - Hello
+    - Greetings!
+  - - Hi, How is it going?
+    - Good
+  - - Hi, How is it going?
+    - Fine
+  - - Hi, How is it going?
+    - Okay
+  - - Hi, How is it going?
+    - Great
+  - - Hi, How is it going?
+    - Could be better.
+  - - Hi, How is it going?
+    - Not so great.
+  - - How are you doing?
+    - Good.
+  - - How are you doing?
+    - Very well, thanks.
+  - - How are you doing?
+    - Fine, and you?
+  - - Nice to meet you.
+    - Thank you.
+  - - How do you do?
+    - I'm doing well.
+  - - How do you do?
+    - I'm doing well. How are you?
+  - - Hi, nice to meet you.
+    - Thank you. You too.
+  - - It is a pleasure to meet you.
+    - Thank you. You too.
+  - - Top of the morning to you!
+    - Thank you kindly.
+  - - Top of the morning to you!
+    - And the rest of the day to you.
+  - - What's up?
+    - Not much.
+  - - What's up?
+    - Not too much.
+  - - What's up?
+    - Not much, how about you?
+  - - What's up?
+    - Nothing much.
+  - - What's up?
+    - The sky's up but I'm fine thanks. What about you?
+  - - Hey, how's it going?
+    - Hey, not bad. How about you?
+  - - Hey, how's everything?
+    - Hey, everything's going well, thanks. How about you?
+  - - Hey, what's new?
+    - Hey, not much, just keeping busy. How about you?
+  - - Hey, what's going on?
+    - Hey, not much, just chilling. How about you?
+  - - Hey, what's the latest?
+    - Hey, nothing much, just taking it easy. How about you?
+  - - Hi there, how have you been?
+    - Hi there, I've been good, thanks. How about yourself?
+  - - Hi there, what's happening?
+    - Hi there, not much, just the usual routine. How about you?
+  - - Hi there, how's your day been?
+    - Hi there, it's been a good day, thanks. How about yours?
+  - - Hi there, how's life treating you?
+    - Hi there, life's been treating me well, can't complain. How about you?
+  - - Good day! How are things?
+    - Good day! Things are going well, thank you. How about you?
+  - - Good day! How's your day been?
+    - Good day! It's been treating me well, thank you. How about yours?
+  - - Good day! How's everything going?
+    - Good day! Everything's going well, thanks. How about you?
+  - - Good day! What's been happening lately?
+    - Good day! Not much, just the usual routine. How about you?
+  - - Good morning, how have you been feeling?
+    - Good morning, I've been feeling great, thank you. How about yourself?
+  - - Good morning, what's new with you?
+    - Good morning, not much, just taking it day by day. How about you?
+  - - Good morning, how's your week shaping up?
+    - Good morning, it's shaping up to be a productive week. How about yours?
+  - - Good morning, how's your day unfolding?
+    - Good morning, it's unfolding pretty smoothly. How about yours?
+  - - Good morning, what's the good word?
+    - Good morning, nothing much, just enjoying the day. How about you?
+  - - Howdy! How's everything on your end?
+    - Howdy! Everything's been good, thanks. How about you?
+  - - Howdy! What's new and exciting?
+    - Howdy! Nothing too exciting, just taking it easy. How about you?
+  - - Howdy! How's your day been treating you?
+    - Howdy! It's been treating me well, thank you. How about yours?
+  - - Howdy! How's your day shaping up so far?
+    - Howdy! It's shaping up to be a good one. How about yours?
+  - - Howdy! What's new in your world these days?
+    - Howdy! Not much, just the usual routine. How about you?
+  - - Howdy! How's everything been on your end?
+    - Howdy! Everything's been good, thanks. How about you?
+  - - Howdy! What's the latest with you these days?
+    - Howdy! Nothing much, just the usual. How about you?
+  - - Howdy! How's your day treating you so far?
+    - Howdy! It's treating me well, thank you. How about yours?
+  - - Howdy! How's your day unfolding?
+    - Howdy! It's been unfolding pretty smoothly. How about yours?
+  - - Howdy! What's been happening in your life lately?
+    - Howdy! Not much, just keeping busy. How about you?
+  - - Howdy! How's everything been on your end?
+    - Howdy! Everything's been good, thanks. How about you?
+  - - Howdy! What's new and exciting in your life?
+    - Howdy! Nothing too exciting, just taking it easy. How about you?
+  - - Howdy! How's your day been treating you?
+    - Howdy! It's been treating me well, thank you. How about yours?
+  - - Howdy! How's your day shaping up so far?
+    - Howdy! It's shaping up to be a good one. How about yours?
+  - - Howdy! What's new in your world these days?
+    - Howdy! Not much, just the usual routine. How about you?
+  - - Howdy! How's everything been on your end?
+    - Howdy! Everything's been good, thanks. How about you?
+  - - Howdy! What's the latest with you these days?
+    - Howdy! Nothing much, just the usual. How about you?
+  - - Howdy! How's your day treating you so far?
+    - Howdy! It's treating me well, thank you. How about yours?
+  - - Howdy! How's your day unfolding?
+    - Howdy! It's been unfolding pretty smoothly. How about yours?
+  - - Howdy! What's been happening in your life lately?
+    - Howdy! Not much, just keeping busy. How about you?
+  - - Howdy! How's everything been on your end?
+    - Howdy! Everything's been good, thanks. How about you?
+  - - Howdy! What's new and exciting in your life?
+    - Howdy! Nothing too exciting, just taking it easy. How about you?
+  - - Howdy! How's your day been treating you?
+    - Howdy! It's been treating me well, thank you. How about yours?
+  - - Howdy! How's your day shaping up so far?
+    - Howdy! It's shaping up to be a good one. How about yours?
+  - - Howdy! What's new in your world these days?
+    - Howdy! Not much, just the usual routine. How about you?
+  - - Howdy! How's everything been on your end?
+    - Howdy! Everything's been good, thanks. How about you?
+  - - Howdy! What's the latest with you these days?
+    - Howdy! Nothing much, just the usual. How about you?
+  - - Howdy! How's your day treating you so far?
+    - Howdy! It's treating me well, thank you. How about yours?
+  - - Howdy! How's your day unfolding?
+    - Howdy! It's been unfolding pretty smoothly. How about yours?
+  - - Howdy! What's been happening in your life lately?
+    - Howdy! Not much, just keeping busy. How about you?
+  - - Howdy! How's everything been on your end?
+    - Howdy! Everything's been good, thanks. How about you?
+  - - Howdy! What's new and exciting in your life?
+    - Howdy! Nothing too exciting, just taking it easy. How about you?
+  - - "How about you?"
+    - "I'm doing well, thanks for asking!"
+  - - "And you?"
+    - "Oh, you know, just hanging in there."
+  - - "How about yourself?"
+    - "Not too bad, thanks for asking."
+  - - "What about you?"
+    - "I'm great, thanks for asking!"
+  - - "How are you holding up?"
+    - "Honestly, could be better, but I'm hanging in there."
+  - - "How's everything with you?"
+    - "Not too bad, thanks for asking."
+  - - "How are you doing?"
+    - "Pretty good, thanks for asking. How about yourself?"
+  - - "How's your day been?"
+    - "Not bad at all, just enjoying the day."
+  - - "How's life treating you?"
+    - "Doing alright, thanks for asking. How about you?"
+  - - "What's new with you?"
+    - "I'm doing fine, thank you for asking!"
+  - - "How's your week going?"
+    - "Just taking it one day at a time, you know?"
+  - - "How are things on your end?"
+    - "Doing okay, thanks for asking. How about you?"
+  - - "How's your day shaping up?"
+    - "Oh, I'm doing just fine, thank you."
+  - - "How have you been?"
+    - "I've been better, but I'm getting by. How about you?"
+  - - "What's up with you?"
+    - "Pretty good, all things considered. Thanks for asking!"
+  - - "How are you feeling?"
+    - "Not too shabby, thanks for asking."
+  - - "What's going on with you?"
+    - "Hanging in there, thanks for asking. How about yourself?"
+  - - "How's your day been treating you?"
+    - "Could be worse, I suppose. How about you?"
+  - - "What's happening?"
+    - "I'm doing alright, just keeping busy. How about yourself?"
+  - - "How's everything been lately?"
+    - "Oh, I'm doing well, thank you for asking. How about you?"
+  - - "Who are you?"
+    - "I am the WeatherWizard chatbot."
+  - - "Who are you?"
+    - "I am the WeatherWizard chatbot."
+  - - "Who are you?"
+    - "I am the WeatherWizard chatbot."
+  - - "Who are you?"
+    - "I am the WeatherWizard chatbot."
+  - - "What are you?"
+    - "I am a chatbot called the WeatherWizard."
+  - - "What's your name?"
+    - "My name is WeatherWizard."
+  - - "Are you a human?"
+    - "No, I'm not a human. I'm the WeatherWizard chatbot."
+  - - "Are you a bot?"
+    - "Yes, I'm a chatbot. My name is WeatherWizard."
+  - - "What do you do?"
+    - "I provide weather forecasts and information. I'm the WeatherWizard chatbot."
+  - - "Who created you?"
+    - "I was created by developers. My name is WeatherWizard."
+  - - "Where are you from?"
+    - "I am a chatbot created by developers. My name is WeatherWizard."
+  - - "Can you introduce yourself?"
+    - "Sure! I'm the WeatherWizard chatbot, here to help you with weather-related queries."
+  - - "What's your purpose?"
+    - "My purpose is to assist users with weather-related inquiries. I'm the WeatherWizard chatbot."
+  - - "What can you do?"
+    - "I can provide weather forecasts, current conditions, and answer weather-related questions. I'm the WeatherWizard chatbot."
+  - - "What can you help me with?"
+    - "I can assist you with weather forecasts, current conditions, and answering weather-related questions."
+  - - "How can you assist me?"
+    - "I can provide you with detailed weather forecasts, current weather conditions, and answer any weather-related questions you may have."
+  - - "What services do you offer?"
+    - "I offer services such as providing weather forecasts, current weather conditions, and answering weather-related queries."
+  - - "What kind of information can you provide?"
+    - "I can provide you with information about the weather forecast for a specific location, current weather conditions, and answer questions related to weather phenomena."
+  - - "Can you tell me about the weather?"
+    - "Absolutely! Just provide me with the location you're interested in, and I'll give you the latest weather forecast and conditions."
+  - - "What types of weather data can you give me?"
+    - "I can provide information on temperature, precipitation, humidity, wind speed, and other relevant weather data for a given location."
+  - - "How accurate are your weather forecasts?"
+    - "My forecasts are based on the latest meteorological data and are generally quite accurate, but please keep in mind that weather can sometimes be unpredictable."

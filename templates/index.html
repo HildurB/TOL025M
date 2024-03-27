@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Chat</title>
+    <link rel="stylesheet" href="../static/styles.css" type="text/css">
+</head>
+<body>
+    <div class="title-bar">
+        <h1>Weatherwizard</h1>
+    </div>
+
+    <div class="chat-container">
+        <div id="chat-box">
+            <div id="example-questions">
+                <div class="card" onclick="sendMessageEx1()">
+                    <div class="card-content">
+                        <p>How is the weather in New York?</p>
+                    </div>
+                </div>
+                <div class="card" onclick="sendMessageEx2()">
+                    <div class="card-content">
+                        <p>How is the temperature tomorrow in Berlin, can you give it hourly?</p>
+                    </div>
+                </div>
+                <div class="card" onclick="sendMessageEx3()">
+                    <div class="card-content">
+                        <p>How is the weather this week in London?</p>
+                    </div>
+                </div>
+                <div class="card" onclick="sendMessageEx4()">
+                    <div class="card-content">
+                        <p>How is the weather in Dubai the day after tomorrow?</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <input type="text" id="user-input" placeholder="Type a message...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script src="../static/script.js"></script>
+</body>
+</html>

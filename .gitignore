@@ -1,0 +1,4 @@
+# Ignore the SQLite database file
+db.sqlite3
+db.sqlite3-shm
+db.sqlite-wal

@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #dbe7f2; 
+  margin :0px;
+}
+
+.chat-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #f5f8fa; 
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+#chat-box {
+  height: 500px;
+  overflow-y: scroll;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+input[type="text"] {
+  width: 80%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4caf50; 
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049; 
+}
+
+
+.title-bar {
+  background-color: #abddff; 
+  padding: 20px 0;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #35abfb;
+}
+
+.title-bar h1 {
+  margin: 0;
+  padding-left: 50px;
+  font-size: 24px;
+  color: #000;
+}
+
+
+
+#example-questions {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two columns */
+  grid-gap: 10px; /* Gap between grid items */
+}
+
+.card {
+  flex: 1;
+  background-color: #ffffff;
+  border: 2px solid #35abfb; 
+  border-radius: 5px;
+  margin: 0 5px; 
+  cursor: pointer;
+  padding: 7px;
+  display: flex;
+  align-items: center;
+  height: 60px;
+}
+
+.card-content {
+  text-align: center;
+}
+
+.card:hover {
+  background-color: #f0f0f0; 
+}
+
+
+p{
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
