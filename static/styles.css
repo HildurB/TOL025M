@@ -61,8 +61,8 @@ button:hover {
 
 #example-questions {
   display: grid;
-  grid-template-columns: repeat(2, 1fr); /* Two columns */
-  grid-gap: 10px; /* Gap between grid items */
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
 }
 
 .card {

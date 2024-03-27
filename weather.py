@@ -7,10 +7,10 @@ import requests_cache
 def get_location_info(place_string):
     """
     Retrieves location information based on a given place string.
-    
+
     Parameters:
         place_string (str): The name of the place to search for.
-        
+
     Returns:
         location_info (dict or None): A dictionary containing the latitude, longitude, and country of the location if found, or None if no location is found.
     """
@@ -37,6 +37,21 @@ def get_location_info(place_string):
 
 
 def get_weather(period):
+    """
+    Retrieves weather data for a given period using the Open-Meteo API.
+
+    Parameters:
+        period (str): The period for which weather data is requested. Valid values are "current", "today", "tomorrow",
+                      "day after tomorrow", "today hourly", "tomorrow hourly", "day after tomorrow hourly", and "week".
+
+    Returns:
+        dict: A dictionary containing the weather data for the specified period. The structure of the dictionary depends on
+              the selected period. For example, for the "current" period, the dictionary will contain the current weather
+              conditions such as temperature, humidity, apparent temperature, rain, showers, snowfall, weather code, surface
+              pressure, wind speed, wind direction, and wind gusts. For the "today" period, the dictionary will contain the
+              daily weather forecast for the next three days, including maximum and minimum temperatures, apparent temperature
+              ranges, rain and snowfall sums, wind speed and gusts maxima, and dominant wind direction.
+    """
     # Setup the Open-Meteo API client with cache and retry on error
     cache_session = requests_cache.CachedSession('.cache', expire_after=3600)
     retry_session = retry(cache_session, retries=5, backoff_factor=0.2)
